@@ -4,7 +4,7 @@ body {
 
 #navmenu {
     font-family: Arial, sans-serif;
-    font-size: 13px;
+    font-size: 14px;
    display: flex;
    justify-content: flex-end;
    cursor: pointer;
@@ -13,8 +13,8 @@ body {
 }
 
 #navmenu a {
-    margin-right: 20px;
-    margin-top: 15px;
+    margin-right: 25px;
+    margin-top: 25px;
 }
 
 #logo {
@@ -27,4 +27,8 @@ body {
    
 
 
+}
+#searchbox {
+    display: flex;
+    justify-self: center;
 }
