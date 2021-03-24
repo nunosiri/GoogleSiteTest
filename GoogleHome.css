@@ -8,8 +8,12 @@ body {
    display: flex;
    justify-content: flex-end;
    cursor: pointer;
+   
     
     
+}
+.underline-on-hover:hover {
+    text-decoration: underline;
 }
 
 #navmenu a {
@@ -21,7 +25,7 @@ body {
     display: flex;
     justify-self: center;
     margin-left: 810px;
-    margin-top: 254px;
+    margin-top: 243px;
     height: 101px;
     width: 300px;
    
@@ -31,4 +35,16 @@ body {
 #searchbox {
     display: flex;
     justify-self: center;
+    margin-left: 640px;
+    margin-top: 28.5px;
+
+}
+.round {
+    width: 642px;
+    border-radius: 30px;
+    border: 0.5px rgb(226, 220, 220) solid;
+    opacity: 80%;
+    position: center;
+    height: 50px;
+   
 }
