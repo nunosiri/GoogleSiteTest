@@ -1,0 +1,30 @@
+body {
+    margin: 0;
+}
+
+#navmenu {
+    font-family: Arial, sans-serif;
+    font-size: 13px;
+   display: flex;
+   justify-content: flex-end;
+   cursor: pointer;
+    
+    
+}
+
+#navmenu a {
+    margin-right: 20px;
+    margin-top: 15px;
+}
+
+#logo {
+    display: flex;
+    justify-self: center;
+    margin-left: 810px;
+    margin-top: 254px;
+    height: 101px;
+    width: 300px;
+   
+
+
+}
