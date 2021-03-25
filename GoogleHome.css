@@ -1,16 +1,13 @@
 body {
     margin: 0;
-    font-family:  Arial, sans-serif;
-    font-size: 14px;
-    
 }
 
 #navmenu {
     font-family: Arial, sans-serif;
     font-size: 14px;
-    display: flex;
-    justify-content: flex-end;
-    cursor: pointer;
+   display: flex;
+   justify-content: flex-end;
+   cursor: pointer;
    
     
     
