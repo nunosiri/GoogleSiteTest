@@ -26,10 +26,9 @@ body {
 #logo {
     display: flex;
     justify-self: center;
-    margin-left: 810px;
-    margin-top: 243px;
-    height: 101px;
-    width: 300px;
+    margin-left: 824px;
+    margin-top: 217px;
+   
    
 
 
@@ -37,26 +36,28 @@ body {
 #searchbox {
     display: flex;
     justify-self: center;
-    margin-left: 640px;
-    margin-top: 28.5px;
+    margin-left: 671px;
+    margin-top: 26px;
+    
 
 }
 
 .round {
-    width: 642px;
-    border-radius: 30px;
+    width: 580px;
+    border-radius: 40px;
     border: 0.5px rgb(226, 220, 220) solid;
     opacity: 80%;
     position: center;
-    height: 50px;
+    height: 46px;
    
 }
 
 #searchbuttons {
-    display: flex;
-    margin-left: 810px;
-    margin-top: 30px;
-    height: 40px;
+    display: inline-flex;
+    margin-left: 815px;
+    margin-top: 15px;
+    height: 35.5px;
+    
     
     
     
@@ -74,8 +75,8 @@ body {
     border-radius: 4px;
     margin-right: 10;
     text-align: center;
-    width: 145px;
-    
+    width: 135px;
+    cursor: pointer;
 
 }
 
@@ -87,12 +88,23 @@ body {
     opacity: 90%;
     border-radius: 4px;
     margin-left: 10px;
-    width: 145px;
-    
+    width: 135px;
     text-align: center;
+    cursor: pointer;
     
     
+}
+
+.pagelanguage {
+    margin-left: 840px;
+    margin-top: 12px;
+    font-size: 13px;
+    text-decoration: none;
     
+}
+
+.textblue {
+    color:blue
 }
 
 
