@@ -5,9 +5,14 @@ body {
     
     
 }
+
+
+
 .underline-on-hover:hover {
     text-decoration: underline;
+
 }
+
 
 #navmenu {
     font-family: Arial, sans-serif;
@@ -29,10 +34,8 @@ body {
     margin-left: 824px;
     margin-top: 217px;
    
-   
-
-
 }
+
 #searchbox {
     display: flex;
     justify-self: center;
@@ -57,11 +60,6 @@ body {
     margin-left: 815px;
     margin-top: 15px;
     height: 35.5px;
-    
-    
-    
-    
-    
     
     
 }
@@ -91,21 +89,25 @@ body {
     width: 135px;
     text-align: center;
     cursor: pointer;
-    
-    
 }
 
-.pagelanguage {
-    margin-left: 840px;
-    margin-top: 12px;
+
+
+#pagelanguage {
+    margin-left: 843px;
+    margin-top: 13px;
     font-size: 13px;
-    text-decoration: none;
+    
+    
+    
+    
     
 }
 
-.textblue {
-    color:blue
+.txtblue {
+    text-decoration: ;
 }
+
 
 
 
