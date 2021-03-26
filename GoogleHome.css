@@ -8,24 +8,35 @@ body {
 
 
 
-.underline-on-hover:hover {
-    text-decoration: underline;
-
-}
-
-
 #navmenu {
     font-family: Arial, sans-serif;
-    font-size: 14px;
+    font-size: 13px;
     display: flex;
     justify-content: flex-end;
     cursor: pointer;
+    
    
 }
 
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
 #navmenu a {
-    margin-right: 25px;
-    margin-top: 25px;
+    margin-right: 40px;
+    margin-top: 10px;
+}
+
+#navmenu a.topimage {
+    width: 32px;
+    height: 32px;
+    background: red;
+    border-radius: 50%;
+    margin-top: 15px;
 }
 
 #logo {
@@ -42,6 +53,7 @@ body {
     margin-left: 671px;
     margin-top: 26px;
     
+    
 
 }
 
@@ -52,6 +64,7 @@ body {
     opacity: 80%;
     position: center;
     height: 46px;
+    outline: 0px;
    
 }
 
@@ -102,10 +115,13 @@ body {
     
     
     
+    
 }
 
-.txtblue {
-    text-decoration: ;
+a {
+    
+    cursor: pointer;
+    text-decoration: none;
 }
 
 
