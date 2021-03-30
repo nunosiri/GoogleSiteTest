@@ -3,42 +3,34 @@ body, html {
     font-family:  Arial, sans-serif;
     font-size: 14px;
 }
-
 #navmenu {
     font-family: Arial, sans-serif;
     font-size: 13px;
     display: flex;
     justify-content: flex-end;
     cursor: pointer;
-
 }
-
 .icons {
    margin-top: 20px;
    margin-left: 15px;
 }
-
 a {
     text-decoration: none;
 }
-
 a:hover {
     text-decoration: underline;
 }
-
 #navmenu a {
     margin-right: 40px;
     margin-top: 10px;
     margin-right: 20px;
 }
-
 #navmenu a.toplink {
     margin-top: 22px;
     margin-right: 10px;
     padding-right: 5px;
     
 }
-
 #navmenu a.topimage {
     width: 32px;
     height: 32px;
@@ -47,21 +39,18 @@ a:hover {
     margin-top: 14px;
     margin-left: 21px;
 }
-
 #logo {
     display: flex;
     justify-self: center;
     margin-left: 824px;
     margin-top: 213px;
 }
-
 #searchbox {
     display: flex;
     justify-self: center;
     margin-left: 671px;
     margin-top: 26px;
 }
-
 .round {
     width: 580px;
     border-radius: 40px;
@@ -71,14 +60,12 @@ a:hover {
     height: 46px;
     outline: 0px;
 }
-
 #searchbuttons {
     display: inline-flex;
     margin-left: 815px;
     margin-top: 15px;
     height: 35.5px;
 }
-
 .button1 {
     font-family: Arial, sans-serif;
     border: none;
@@ -90,9 +77,7 @@ a:hover {
     text-align: center;
     width: 135px;
     cursor: pointer;
-
 }
-
 .button2 {
     font-family: Arial, sans-serif;
     border: none;
@@ -105,25 +90,20 @@ a:hover {
     text-align: center;
     cursor: pointer;
 }
-
 #pagelanguage {
     margin-left: 843px;
     margin-top: 13px;
     font-size: 13px;
     
 }
-
 a {
-    
     cursor: pointer;
     text-decoration: none;
 }
-
 footer {
 	background: #f2f2f2;
     margin-top: 385px;
 }
-
 footer h4 {
 	color: rgba(0,0,0, 0.54);
 	font-size: 15px;
@@ -131,29 +111,23 @@ footer h4 {
 	font-weight: 400;
 	padding-left: 29px;
 }
-
 footer a {
 	color: #5f6368;
 	display: inline-block;
 	padding: 11px 11.3px;
 	font-size: 14px;
-    
 }
-
 footer a:hover {
 	text-decoration: underline;
 }
-
 .links {
 	border-top: 1px solid #ddd;
 	display: flex;
 }
-
 .linksleft {
 	padding-left: 18.7px;
 	flex: 1;
 }
-
 .linksright {
 	padding-right: 18.7px;
 }
