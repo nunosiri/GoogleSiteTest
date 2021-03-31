@@ -1,133 +1,132 @@
-body, html {
-    margin: 0;
-    font-family:  Arial, sans-serif;
-    font-size: 14px;
+body,
+html {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  font-size: 14px;
 }
 #navmenu {
-    font-family: Arial, sans-serif;
-    font-size: 13px;
-    display: flex;
-    justify-content: flex-end;
-    cursor: pointer;
+  font-family: Arial, sans-serif;
+  font-size: 13px;
+  display: flex;
+  justify-content: flex-end;
+  cursor: pointer;
 }
 .icons {
-   margin-top: 20px;
-   margin-left: 15px;
+  margin-top: 20px;
+  margin-left: 15px;
 }
 a {
-    text-decoration: none;
+  text-decoration: none;
 }
 a:hover {
-    text-decoration: underline;
+  text-decoration: underline;
 }
 #navmenu a {
-    margin-right: 40px;
-    margin-top: 10px;
-    margin-right: 20px;
+  margin-right: 40px;
+  margin-top: 10px;
+  margin-right: 20px;
 }
 #navmenu a.toplink {
-    margin-top: 22px;
-    margin-right: 10px;
-    padding-right: 5px;
-    
+  margin-top: 22px;
+  margin-right: 10px;
+  padding-right: 5px;
 }
 #navmenu a.topimage {
-    width: 32px;
-    height: 32px;
-    background:black;
-    border-radius: 50%;
-    margin-top: 14px;
-    margin-left: 21px;
+  width: 32px;
+  height: 32px;
+  background: black;
+  border-radius: 50%;
+  margin-top: 14px;
+  margin-left: 21px;
 }
 #logo {
-    display: flex;
-    justify-self: center;
-    margin-left: 824px;
-    margin-top: 213px;
+  display: flex;
+  justify-self: center;
+  margin-left: 824px;
+  margin-top: 213px;
 }
 #searchbox {
-    display: flex;
-    justify-self: center;
-    margin-left: 671px;
-    margin-top: 26px;
+  display: flex;
+  justify-self: center;
+  margin-left: 671px;
+  margin-top: 26px;
 }
 .round {
-    width: 580px;
-    border-radius: 40px;
-    border: 0.5px rgb(226, 220, 220) solid;
-    opacity: 80%;
-    position: center;
-    height: 46px;
-    outline: 0px;
+  width: 580px;
+  border-radius: 40px;
+  border: 0.5px rgb(226, 220, 220) solid;
+  opacity: 80%;
+  position: center;
+  height: 46px;
+  outline: 0px;
 }
 #searchbuttons {
-    display: inline-flex;
-    margin-left: 815px;
-    margin-top: 15px;
-    height: 35.5px;
+  display: inline-flex;
+  margin-left: 815px;
+  margin-top: 15px;
+  height: 35.5px;
 }
 .button1 {
-    font-family: Arial, sans-serif;
-    border: none;
-    font-size: 14px;
-    background-color: rgba(245, 245, 245, 0.924);
-    opacity: 90%;
-    border-radius: 4px;
-    margin-right: 10;
-    text-align: center;
-    width: 135px;
-    cursor: pointer;
+  font-family: Arial, sans-serif;
+  border: none;
+  font-size: 14px;
+  background-color: rgba(245, 245, 245, 0.924);
+  opacity: 90%;
+  border-radius: 4px;
+  margin-right: 10;
+  text-align: center;
+  width: 135px;
+  cursor: pointer;
 }
 .button2 {
-    font-family: Arial, sans-serif;
-    border: none;
-    font-size: 14px;
-    background-color: rgba(245, 245, 245, 0.924);
-    opacity: 90%;
-    border-radius: 4px;
-    margin-left: 10px;
-    width: 135px;
-    text-align: center;
-    cursor: pointer;
+  font-family: Arial, sans-serif;
+  border: none;
+  font-size: 14px;
+  background-color: rgba(245, 245, 245, 0.924);
+  opacity: 90%;
+  border-radius: 4px;
+  margin-left: 10px;
+  width: 135px;
+  text-align: center;
+  cursor: pointer;
 }
 #pagelanguage {
-    margin-left: 843px;
-    margin-top: 13px;
-    font-size: 13px;
-    
+  margin-left: 843px;
+  margin-top: 13px;
+  font-size: 13px;
 }
 a {
-    cursor: pointer;
-    text-decoration: none;
+  cursor: pointer;
+  text-decoration: none;
 }
 footer {
-	background: #f2f2f2;
-    margin-top: 385px;
+  background: #f2f2f2;
+  margin-top: 385px;
 }
 footer h4 {
-	color: rgba(0,0,0, 0.54);
-	font-size: 15px;
-	line-height: 30.5px;
-	font-weight: 400;
-	padding-left: 29px;
+  color: rgba(0, 0, 0, 0.54);
+  font-size: 15px;
+  line-height: 30.5px;
+  font-weight: 400;
+  padding-left: 29px;
 }
 footer a {
-	color: #5f6368;
-	display: inline-block;
-	padding: 11px 11.3px;
-	font-size: 14px;
+  color: #5f6368;
+  display: inline-block;
+  padding: 11px 11.3px;
+  font-size: 14px;
 }
 footer a:hover {
-	text-decoration: underline;
+  text-decoration: underline;
 }
 .links {
-	border-top: 1px solid #ddd;
-	display: flex;
+  border-top: 1px solid #ddd;
+  display: flex;
 }
 .linksleft {
-	padding-left: 18.7px;
-	flex: 1;
+  padding-left: 18.7px;
+  flex: 1;
 }
 .linksright {
-	padding-right: 18.7px;
+  padding-right: 18.7px;
 }
